@@ -2,12 +2,12 @@
 
 layout: post
 title:  "Welcome!"
-date:   2015-08-31 09:14am
+date:   2018-06-12 02:07pm
 author: Conner Luzier
 categories:
 keywords: "Welcome, blog"
 permalink: blog/posts/2018/June/:title/
-preview: Hello Guys Welcome to my blog, I'm excited your here. I like to tell you a little bit about myself. My name is Manuel Osorio. I'm a graphic/web designer...
+preview: Hello, Welcome to my new blog! My name is Conner Luzier, I am a college student...
 
 ---
 
