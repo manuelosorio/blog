@@ -6,7 +6,7 @@ date:   2018-06-12 02:07pm
 author: Conner Luzier
 categories:
 keywords: "Welcome, blog"
-permalink: blog/posts/2018/June/:title/
+permalink: posts/2018/June/:title/
 preview: Hello, Welcome to my new blog! My name is Conner Luzier, I am a college student...
 
 ---
